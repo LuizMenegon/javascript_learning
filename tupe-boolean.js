@@ -5,4 +5,4 @@ console.log("O valor é:" + primeiroNumero === segundoNumero); // Saída: false
 console.log(primeiroNumero !== segundoNumero); // Saída: true
 console.log(primeiroNumero < segundoNumero); // Saída: true
 
-// nova alteração 2
+// nova alteração 4
