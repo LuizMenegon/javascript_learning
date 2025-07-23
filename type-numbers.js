@@ -18,4 +18,5 @@ console.log(novaSoma); // Saída: 4.3
 const alura = "Alura";
 console.log(alura * primeiroNumero); // Saída: NaN (Not a Number)
 
+//teste 5
 //teste 4
